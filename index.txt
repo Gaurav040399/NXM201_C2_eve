@@ -1,0 +1,14 @@
+Hashing and Verifying Question 
+
+Ans of this question is available 
+=> model is in model/hash.model.js
+=> route are available in user.route.js
+
+
+Encryption and Decryption  Question
+
+Ans of this question is available 
+=> model is in model/encryption.model.js
+=> route are available in user.route.js
+
+
